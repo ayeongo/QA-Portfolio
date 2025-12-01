@@ -1,2 +1,2 @@
-# QA-Portfolio
+# QA
 Work related to quality engineering
